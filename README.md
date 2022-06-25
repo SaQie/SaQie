@@ -7,6 +7,7 @@
 - 💼 Junior Java Developer at **StreamSoft**
 - 🔭 I’m currently working on tutoring platform in **SimpleAsCoding organization**
 - 🌱 I’m currently learning **Docker, GitHub, English skills**
+- 📖 I’m currently reading **Clean Architecture Robert C. Martin**
 
 
 ## Connect with me ✉️
