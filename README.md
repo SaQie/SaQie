@@ -57,13 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SaQie/SaQie/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SaQie.SaQie&left_color=goldenrod&right_color=dimgray&left_text=Profile views"  />
-
-###
